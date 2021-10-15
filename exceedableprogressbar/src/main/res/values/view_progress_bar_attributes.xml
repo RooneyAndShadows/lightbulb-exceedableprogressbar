@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="exceedable_pbar_indeterminate_color">#5C636A</color>
+    <color name="exceedable_pbar_default_text_color">#ffffff</color>
+
+    <declare-styleable name="ExceedableProgressBar">
+        <attr name="ExceedableProgressBarMin" format="float" />
+        <attr name="ExceedableProgressBarMax" format="float" />
+        <attr name="ExceedableProgressBarProgress" format="float" />
+        <attr name="ExceedableProgressBarTopTextSize" format="dimension" />
+        <attr name="ExceedableProgressBarPercentageTextSize" format="dimension" />
+        <attr name="ExceedableProgressBarColorProgress" format="color" />
+        <attr name="ExceedableProgressBarColorExceeded" format="color" />
+        <attr name="ExceedableProgressBarColorIndeterminate" format="color" />
+        <attr name="ExceedableProgressBarColorPercentageText" format="color" />
+        <attr name="ExceedableProgressBarColorTopText" format="color" />
+    </declare-styleable>
+
+</resources>
