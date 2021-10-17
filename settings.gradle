@@ -1,3 +1,3 @@
 rootProject.name = "ExceedableProgressBar"
 include ':app'
-include ':exceedableprogressbar'
+include ':lightbulb-exceedableprogressbar'
