@@ -1,4 +1,4 @@
-package com.rands.lightbulb.exceedableprogressbar;
+package com.github.rooneyandshadows.lightbulb.exceedableprogressbar;
 
 import androidx.appcompat.app.AppCompatActivity;
 

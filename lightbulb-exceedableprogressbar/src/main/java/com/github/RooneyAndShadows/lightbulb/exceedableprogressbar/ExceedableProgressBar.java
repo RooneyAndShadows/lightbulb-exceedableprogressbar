@@ -1,4 +1,4 @@
-package com.github.RooneyAndShadows.lightbulb.exceedableprogressbar;
+package com.github.rooneyandshadows.lightbulb.exceedableprogressbar;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -10,9 +10,9 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.github.RooneyAndShadows.commons.numeric.NumberUtils;
-import com.github.RooneyAndShadows.lightbulb.commons.utils.ResourceUtils;
-import com.rands.lightbulb.exceedableprogressbar.R;
+import com.github.rooneyandshadows.commons.numeric.NumberUtils;
+import com.github.rooneyandshadows.lightbulb.commons.utils.ResourceUtils;
+import com.github.rooneyandshadows.lightbulb.exceedableprogressbar.R;
 
 import androidx.databinding.BindingAdapter;
 

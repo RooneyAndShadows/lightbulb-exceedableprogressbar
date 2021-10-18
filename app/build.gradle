@@ -6,7 +6,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.rands.lightbulb.exceedableprogressbar"
+        applicationId "com.github.rooneyandshadows.lightbulb.exceedableprogressbar"
         minSdk 24
         targetSdk 30
         versionCode 1
