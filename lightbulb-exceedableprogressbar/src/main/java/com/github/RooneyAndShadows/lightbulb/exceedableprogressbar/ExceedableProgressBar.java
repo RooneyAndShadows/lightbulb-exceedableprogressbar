@@ -10,7 +10,7 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.github.rooneyandshadows.commons.numeric.NumberUtils;
+import com.github.rooneyandshadows.java.commons.numeric.NumberUtils;
 import com.github.rooneyandshadows.lightbulb.commons.utils.ResourceUtils;
 import com.github.rooneyandshadows.lightbulb.exceedableprogressbar.R;
 
